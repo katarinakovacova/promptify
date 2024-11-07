@@ -1,4 +1,4 @@
-# Promptica - The Prompt Library
+# Prompify - The Prompt Library
 
 Welcome to the **Prompt Library**! This repository is dedicated to storing and sharing well-crafted prompts for various use cases in prompt engineering. Whether you're looking for creative writing prompts, technical questions, or any other type of prompt, you'll find them here.
 
