@@ -1,0 +1,7 @@
+Termination and Dispute Resolution Prompts
+
+- Objective: Analyze the following contract for clauses on termination and dispute resolution. In your analysis:
+  - Identify the grounds for contract termination by either party and any notice period requirements.
+  - Review dispute resolution mechanisms, such as arbitration or mediation, and the location/jurisdiction for disputes.
+  - Assess potential consequences or penalties upon contract termination, especially related to payment or IP.
+- Provide recommendations on clarifying or negotiating termination terms to minimize risk, and ensure clear dispute resolution paths.

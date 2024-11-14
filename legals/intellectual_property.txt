@@ -1,0 +1,7 @@
+Intellectual Property Prompts
+
+- Objective: Analyze the following contract for terms related to intellectual property (IP) ownership and licensing. In your analysis:
+  - Identify clauses specifying ownership rights for work produced (e.g., 'work for hire' or assignment clauses).
+  - Review licensing terms, if any, that outline usage rights for the code, software, or other created assets.
+  - Highlight any sections addressing future use, distribution, or modifications of the created IP by the client or other parties.
+- Explain any potential limitations or permissions related to IP, and suggest negotiation points if terms seem restrictive.

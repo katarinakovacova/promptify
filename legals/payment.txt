@@ -1,0 +1,7 @@
+Payment and Compensation Prompts
+
+- Objective: Review the payment and compensation terms in the following contract. Specifically:
+  - Identify payment schedules, milestone requirements, and any conditions for payment release.
+  - Clarify terms related to additional fees, expenses, or bonuses for extra work or early completion.
+  - Note any clauses regarding penalty fees, delayed payments, or interest for late payments.
+- Summarize the payment structure and highlight any areas where adjustments or clarifications might ensure fair compensation for development work.

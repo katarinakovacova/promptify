@@ -1,6 +1,6 @@
 Prompt script for generating blog post ideas:
 
-"Create a list of unique and engaging blog post ideas tailored for a specific audience. Each idea should:
+Create a list of unique and engaging blog post ideas tailored for a specific audience. Each idea should:
 1. Address a relevant topic, trend, or problem within the chosen niche.
 2. Include a suggested title and a brief description outlining the main points or arguments.
 3. Offer practical value, insights, or solutions that readers can benefit from.
@@ -8,5 +8,5 @@ Prompt script for generating blog post ideas:
 Generate at least five ideas, and for each, explain:
 - Why the topic is interesting or valuable to readers.
 - Key aspects or sections that the blog post should cover.
-- Optional suggestions for keywords or tags to improve SEO visibility."
+- Optional suggestions for keywords or tags to improve SEO visibility.
 
