@@ -1,0 +1,7 @@
+Non-disclosure Agreements (NDAs) Prompts
+
+- Objective: Evaluate the following non-disclosure agreement (NDA) or confidentiality clause. Focus on:
+  - The definition and scope of ‘confidential information’ and any specific exclusions.
+  - Requirements for handling, storing, or disclosing information during and after the agreement.
+  - Terms outlining the duration of confidentiality obligations after the contract ends.
+- Summarize the implications of the NDA, including how it could impact work sharing, and provide guidance on negotiating more flexible terms if necessary.
