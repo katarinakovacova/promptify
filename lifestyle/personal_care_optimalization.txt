@@ -1,0 +1,7 @@
+Personal Care Optimizations
+
+- Objective: Enhance daily personal care practices to support skin health, wellness, and nutrition. Focus on:
+  - Skin care tips for different skin types, with guidance on building an effective daily skincare routine.
+  - Suggestions for simple, nutritious dietary changes that benefit skin and overall health.
+  - Recommendations for incorporating wellness habits, like staying hydrated, managing stress, and prioritizing sleep.
+- Add prompts to help users assess the effectiveness of these routines and make gradual improvements over time.

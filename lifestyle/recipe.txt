@@ -1,0 +1,9 @@
+Recipes
+
+- Objective: Create a set of healthy, easy-to-make recipes for various meals (breakfast, lunch, dinner, and snacks). Each recipe should be quick to prepare, balanced, and emphasize whole ingredients.
+- Focus areas:
+  - Ingredients that are easy to source and budget-friendly.
+  - Nutritional balance for sustained energy, incorporating protein, healthy fats, and fiber.
+  - Tips on making substitutions for dietary restrictions (e.g., gluten-free, dairy-free).
+  - Tips on how to process foods already available at home
+- Suggest additional ideas for storing leftovers or preparing ingredients in advance to save time.
