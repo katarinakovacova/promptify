@@ -1,0 +1,40 @@
+
+Contract Review Prompts
+
+- Objective: Review the following contract for key terms that impact development work. Focus on:
+  - Clauses related to project scope, timelines, and deliverables.
+  - Definitions or conditions regarding the quality of work or specific performance expectations.
+  - Any sections that could affect work flexibility, ownership rights, or scope changes during the project.
+- Identify any clauses that may require clarification or negotiation, and summarize how these terms could impact the work relationship.
+
+Intellectual Property Prompts
+
+- Objective: Analyze the following contract for terms related to intellectual property (IP) ownership and licensing. In your analysis:
+  - Identify clauses specifying ownership rights for work produced (e.g., 'work for hire' or assignment clauses).
+  - Review licensing terms, if any, that outline usage rights for the code, software, or other created assets.
+  - Highlight any sections addressing future use, distribution, or modifications of the created IP by the client or other parties.
+- Explain any potential limitations or permissions related to IP, and suggest negotiation points if terms seem restrictive.
+
+Non-disclosure Agreements (NDAs) Prompts
+
+- Objective: Evaluate the following non-disclosure agreement (NDA) or confidentiality clause. Focus on:
+  - The definition and scope of ‘confidential information’ and any specific exclusions.
+  - Requirements for handling, storing, or disclosing information during and after the agreement.
+  - Terms outlining the duration of confidentiality obligations after the contract ends.
+- Summarize the implications of the NDA, including how it could impact work sharing, and provide guidance on negotiating more flexible terms if necessary.
+
+Payment and Compensation Prompts
+
+- Objective: Review the payment and compensation terms in the following contract. Specifically:
+  - Identify payment schedules, milestone requirements, and any conditions for payment release.
+  - Clarify terms related to additional fees, expenses, or bonuses for extra work or early completion.
+  - Note any clauses regarding penalty fees, delayed payments, or interest for late payments.
+- Summarize the payment structure and highlight any areas where adjustments or clarifications might ensure fair compensation for development work.
+
+Termination and Dispute Resolution Prompts
+
+- Objective: Analyze the following contract for clauses on termination and dispute resolution. In your analysis:
+  - Identify the grounds for contract termination by either party and any notice period requirements.
+  - Review dispute resolution mechanisms, such as arbitration or mediation, and the location/jurisdiction for disputes.
+  - Assess potential consequences or penalties upon contract termination, especially related to payment or IP.
+- Provide recommendations on clarifying or negotiating termination terms to minimize risk, and ensure clear dispute resolution paths.
