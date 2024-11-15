@@ -1,6 +1,6 @@
 Prompt script for generating personal programming project ideas:
 
-"Generate a list of innovative programming project ideas for a personal project. Each idea should be:
+Generate a list of innovative programming project ideas for a personal project. Each idea should be:
 1. Unique and challenging, covering different domains (such as web development, mobile apps, machine learning, or data analysis).
 2. Detailed enough to include the main functionality and potential technologies to use.
 3. Practical, with a brief explanation of its value or purpose and possible real-world applications.
@@ -10,4 +10,4 @@ List at least five project ideas and provide a short description of each, explai
 - Key features or functionality it should include.
 - Recommended programming languages, frameworks, or libraries.
 
-End the response with tips on how to approach these types of projects for maximum learning and development."
+End the response with tips on how to approach these types of projects for maximum learning and development.

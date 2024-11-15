@@ -1,4 +1,4 @@
-/**
+/*
  * Prompt script for optimizing a given code snippet:
  *
  * "Analyze the provided code and optimize it. The response should include:
