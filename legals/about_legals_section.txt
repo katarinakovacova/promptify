@@ -1,0 +1,14 @@
+Legals section
+
+Contract negotiation used to intimidate me. As a developer, I often felt clumsy when analyzing new collaborations.
+I would attend meetings with my lawyer unprepared, which made the process more stressful than necessary.
+
+Having AI as a reliable legal assistant has been a game changer. The Legals section of Prompify is designed to help developers navigate legal documents and agreements.
+
+It includes:
+- Prompt scripts for analyzing and understanding key contract clauses.
+- Guidance on intellectual property, including licensing and ownership.
+- Assistance with understanding non-disclosure agreements (NDAs) and their implications.
+- Tips for negotiating payment terms and resolving disputes.
+
+I still rely on my lawyer for legal advice, but now I attend meetings well-prepared, with a much better understanding of contracts.

@@ -2,11 +2,11 @@ import java.util.Scanner
 
 /*
 Prompt script for issue creation:
-"Write an issue for a Kotlin program that converts temperatures between Celsius and Fahrenheit. The issue should include:
+Write an issue for a Kotlin program that converts temperatures between Celsius and Fahrenheit. The issue should include:
 1. A brief summary of the program’s purpose.
 2. Detailed tasks that the program should accomplish, such as user input, conversion, and error handling.
 3. Expected program output with an example if possible.
-Format this issue as a Markdown code for posting to GitHub."
+Format this issue as a Markdown code for posting to GitHub.
 */
 
 /*

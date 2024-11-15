@@ -1,0 +1,12 @@
+Lifestyle section
+
+I find myself between generations Y and Z. I value my personal life and free time as much as my work.
+My first experiments with simplifying life using AI began with a simple question: What meal can I prepare with the ingredients in my fridge?
+
+This section of my project focuses on personal well-being, cooking, and organization.
+
+It includes:
+- Prompt scripts for creating healthy recipes for various meals throughout the day.
+- Guides for structuring a productive daily schedule.
+- Tips for skincare, wellness, and nutrition.
+- Suggestions for improving work-life balance.

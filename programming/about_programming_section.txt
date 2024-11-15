@@ -1,0 +1,13 @@
+Programming section
+
+I’ve completed the Programming section of Prompify. This section is designed to improve working with code and to support the people I mentor.
+I’ve often encountered AI-generated code, which is not always an optimal solution.
+Without understanding its purpose, code becomes just a collection of symbols with no deeper logic.
+
+What has proven effective in my work with code and AI is focusing on:
+
+- Designing project structures.
+- Optimizing code for clarity and performance.
+- Creating issues and documentation.
+- Suggesting improvements.
+- Brainstorming ideas for new personal projects.
