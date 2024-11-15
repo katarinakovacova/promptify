@@ -1,28 +1,30 @@
 # Prompify - The Prompt Library
 
-Welcome to the **Prompt Library**! This repository is dedicated to storing and sharing well-crafted prompts for various use cases in prompt engineering. Whether you're looking for creative writing prompts, technical questions, or any other type of prompt, you'll find them here.
+Welcome to the **Prompify**! This repository is dedicated to storing and sharing well-crafted prompts for various use cases in prompt engineering. **Prompify** is a project designed to support productivity and creativity across key areas: programming, blogging, contract analysis, and personal well-being. Each section offers prompt scripts to help users streamline their work and improve various aspects of their daily lives.
 
 ## Purpose
 
 The goal of this repository is to provide a collection of effective and diverse prompts that can be used for training, testing, or inspiration. These prompts are designed to be flexible, reusable, and categorized by topic to help prompt engineers, developers, and creatives.
 
-## Repository Structure
+## Project Overview
 
-- `prompts/`: Directory where all the prompt templates will be stored.
-- `README.md`: This file, which provides an overview of the project.
-- `CONTRIBUTING.md` (optional): A guide on how to contribute to the repository.
+### Sections
 
-## How to Contribute
+#### 1. **Programming**
+The Programming section focuses on improving code-related tasks. It offers prompts for project structuring, code optimization, issue creation, documentation, and personal project ideas. It helps developers understand and execute code more efficiently.
 
-We welcome contributions to expand and improve the collection of prompts. To contribute, follow these steps:
+#### 2. **Blog**
+The Blog section assists with creating a consistent publishing plan, generating article ideas, optimizing posts for SEO, and connecting blog content with social media. It simplifies the blogging process and enhances creativity.
 
-1. Fork the repository.
-2. Create a new branch for your prompt.
-3. Add your prompt in the appropriate category (or create a new category if necessary).
-4. Ensure that your prompt is clear, well-structured, and properly formatted.
-5. Create a pull request with a brief description of your changes.
+#### 3. **Legals**
+The Legals section provides prompts for analyzing contracts and understanding key legal aspects, including intellectual property, NDAs, and payment terms. It helps developers navigate legal documents with more confidence.
 
-If you're unsure which category to choose for your prompt, feel free to suggest new categories, and we can organize them accordingly.
+#### 4. **Lifestyle**
+The Lifestyle section offers prompts to optimize daily routines, including healthy recipes, productive schedules, skincare, and wellness tips. It supports users in achieving better work-life balance and well-being.
+
+---
+
+Prompify is designed to help users simplify tasks, boost productivity, and navigate both professional and personal challenges with the support of AI-powered prompts.
 
 ## Contact
 For any questions, feedback, or support, please reach out to [Katarína Kováčová](mailto:katarinakovacova100@gmail.com).
